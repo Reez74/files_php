@@ -22,8 +22,7 @@ class Horse extends Animal {
 
 class Pegasus extends Horse {
   function fly(){
-    echo("Игого, я полетел(а)<br/>");
-    
+    echo("Игого, я полетел(а)<br/>");    
   }
 }
 
